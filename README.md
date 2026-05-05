@@ -39,13 +39,13 @@ For this project, I added a new column called "high_readmission_rate" to categor
 1. 48.15% of hospital measure records had an excess readmission ratio above 1.0, which means that nearly half of the hospital measure records had more readmissions than their expectations of risk adjusted benchmark even after adjusting for patient risk factors.
 
 2. The analyzed results shows that most of the excess readmission ratio values were centered near 1.0. This suggests that overall readmission rates was close to the expectations. However, individual hospital measure records still showed variation.
-!(outputs/excess_readmission_ratio_distribution.png)
+![](outputs/excess_readmission_ratio_distribution.png)
 
 3. According to the analysis, CABG and AMI are the measures that show the highest proportion of hospital measure records with an excess readmission ratio above 1.0 among all the clinical measures analyzed. These results suggest that hospitals may benefit from monitoring closer to the post discharge care for coronary artery bypass graft surgery and acute myocardial infarction patients.
-!(outputs/high_readmission_rate_by_measure.png)
+![](outputs/high_readmission_rate_by_measure.png)
 
 4. Some states had more than 60% of hospital measure records with excess readmission ratio above 1.0, which indicates there might be significant regional variation in readmission rates.
-!(outputs/high_readmission_rate_by_state.png)
+![](outputs/high_readmission_rate_by_state.png)
 
 ## Insights and Recommendations
 
